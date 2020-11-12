@@ -139,6 +139,7 @@ object frmU640: TfrmU640
         TitleParams.RowHeight = 23
         TitleParams.VertLineColor = 11053224
         OnKeyPress = dgInfoKeyPress
+        OnMouseMove = dgInfoMouseMove
         OnTitleClick = dgInfoTitleClick
         Columns = <
           item

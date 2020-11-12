@@ -505,6 +505,7 @@ object frmU620: TfrmU620
           TitleParams.VertLineColor = 11053224
           OnCellClick = dgInfoSubCellClick
           OnKeyPress = dgInfoSubKeyPress
+          OnMouseUp = dgInfoSubMouseUp
           OnTitleClick = dgInfoTitleClick
           Columns = <
             item

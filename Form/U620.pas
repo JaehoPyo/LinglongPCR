@@ -74,6 +74,7 @@ type
     procedure dgInfoSubKeyPress(Sender: TObject; var Key: Char);
     procedure dgInfoSelectionChanged(Sender: TObject);
     procedure dgInfoSubCellClick(Column: TColumnEh);
+    procedure dgInfoSubMouseUp(Sender: TObject; Button: TMouseButton; Shift: TShiftState; X, Y: Integer);
   private
     { Private declarations }
   public
@@ -197,6 +198,8 @@ end;
 //==============================================================================
 procedure TfrmU620.FormDeactivate(Sender: TObject);
 begin
+  if (qryInfoSub.Active = false ) then Exit;
+
   if qryInfoSub.State in [dsEdit, dsInsert] then
   begin
     qryInfoSub.Post;
@@ -729,6 +732,8 @@ end;
 //==============================================================================
 procedure TfrmU620.dgInfoSubCellClick(Column: TColumnEh);
 begin
+  if (qryInfoSub.Active = false ) then Exit;
+
   edtCode.Text := qryInfoSub.FieldByName('PROGRAM_ID').AsString;
   edtName.Text := qryInfoSub.FieldByName('PROGRAM_NAME').AsString;
   edtUSED_YN.Text := 'Y';
@@ -862,12 +867,27 @@ end;
 //==============================================================================
 procedure TfrmU620.dgInfoSubKeyPress(Sender: TObject; var Key: Char);
 begin
+  if (qryInfoSub.Active = false ) then Exit;
+
   if key = #13 then
   begin
     if qryInfoSub.State in [dsEdit, dsInsert] then
     begin
       qryInfoSub.Post;
     end;
+  end;
+end;
+
+//==============================================================================
+// dgInfoSubMouseUp
+//==============================================================================
+procedure TfrmU620.dgInfoSubMouseUp(Sender: TObject; Button: TMouseButton; Shift: TShiftState; X, Y: Integer);
+begin
+  if (qryInfoSub.Active = false ) then Exit;
+
+  if qryInfoSub.State in [dsEdit, dsInsert] then
+  begin
+    qryInfoSub.Post;
   end;
 end;
 

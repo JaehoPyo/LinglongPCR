@@ -57,6 +57,7 @@ type
     procedure dgInfoKeyPress(Sender: TObject; var Key: Char);
     procedure edtRowHeightChange(Sender: TObject);
     procedure edtFontSizeChange(Sender: TObject);
+    procedure dgInfoMouseMove(Sender: TObject; Shift: TShiftState; X, Y: Integer);
   private
     { Private declarations }
   public
@@ -404,6 +405,19 @@ begin
 end;
 
 //==============================================================================
+// dgInfoMouseMove
+//==============================================================================
+procedure TfrmU630.dgInfoMouseMove(Sender: TObject; Shift: TShiftState; X, Y: Integer);
+begin
+  if (qryInfo.Active = false ) then Exit;
+
+  if qryInfo.State in [dsEdit, dsInsert] then
+  begin
+    qryInfo.Post;
+  end;
+end;
+
+//==============================================================================
 // dgInfoTitleClick
 //==============================================================================
 procedure TfrmU630.dgInfoTitleClick(Column: TColumnEh);
@@ -517,6 +531,8 @@ end;
 //==============================================================================
 procedure TfrmU630.dgInfoKeyPress(Sender: TObject; var Key: Char);
 begin
+  if (qryInfo.Active = false ) then Exit;
+
   if key = #13 then
   begin
     if qryInfo.State in [dsEdit, dsInsert] then
