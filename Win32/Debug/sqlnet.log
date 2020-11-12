@@ -1,0 +1,1764 @@
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 13:10:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 13:30:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 13:51:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 14:32:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 14:53:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 15:14:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 15:55:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 16:15:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 16:36:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 16:57:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 17:17:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 17:38:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 17:59:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 14-2월 -2020 19:00:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 12:18:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorcl)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200217_02\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 14:09:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:프로토콜 어댑터 오류
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 프로토콜 어댑터 오류입니다
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorcl)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200217_02\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 14:09:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:프로토콜 어댑터 오류
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 프로토콜 어댑터 오류입니다
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 14:43:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 15:24:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorcl)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200217_03\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 16:21:40
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:프로토콜 어댑터 오류
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 프로토콜 어댑터 오류입니다
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorcl)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200217_03\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 16:21:40
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:프로토콜 어댑터 오류
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 프로토콜 어댑터 오류입니다
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 17-2월 -2020 18:09:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 08:35:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 09:37:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 09:58:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 10:18:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorcl)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_02\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 10:31:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:프로토콜 어댑터 오류
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 프로토콜 어댑터 오류입니다
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorcl)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_02\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 10:31:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:프로토콜 어댑터 오류
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 프로토콜 어댑터 오류입니다
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 11:20:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 12:43:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 14:26:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 14:46:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 17:31:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 17:32:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 17:52:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 18-2월 -2020 18:13:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 08:32:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 08:32:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 08:33:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 08:35:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 09:02:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 09:02:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 09:02:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 09:02:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 09:02:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 09:03:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 09:03:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_05\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 17:41:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_05\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 17:41:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_05\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 17:41:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 17:41:40
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_05\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 17:41:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:리스너가 없습니다.
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 리스너가 없습니다.
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_05\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 17:41:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200218_05\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-2월 -2020 17:42:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200221_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 21-2월 -2020 16:35:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:프로토콜 어댑터 오류
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200303_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 11-3월 -2020 17:59:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200303_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 11-3월 -2020 17:59:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200303_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 11-3월 -2020 17:59:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 11-3월 -2020 18:00:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200303_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 11-3월 -2020 18:00:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:리스너가 없습니다.
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 리스너가 없습니다.
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200303_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 11-3월 -2020 18:00:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\LLT_TBR_INV_20200303_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 11-3월 -2020 18:00:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:연결이 거부되었습니다
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-3월 -2020 12:37:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-3월 -2020 12:37:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-3월 -2020 12:37:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\??????????\TBR?????\????????\LLT_TBR_INV_20200313_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-3월 -2020 12:38:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:리스너가 없습니다.
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 리스너가 없습니다.
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\??????????\TBR?????\????????\LLT_TBR_INV_20200313_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-3월 -2020 12:38:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:리스너가 없습니다.
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 리스너가 없습니다.
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=221.150.92.248)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=C:\Users\user\Desktop\??????????\TBR?????\????????\LLT_TBR_INV_20200313_01\Win32\Debug\LLT_TBR_AWS.exe)(HOST=DESKTOP-DNF19BG)(USER=user))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 19-3월 -2020 12:38:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:리스너가 없습니다.
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 리스너가 없습니다.
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:05:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=221.150.92.248)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:05:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:05:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:06:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:06:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:06:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:07:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 25-3월 -2020 14:07:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:작동이 중단중입니다
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 작동이 중단중입니다
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+NL-08014: Message 8014 not found; No message file for product=NETWORK, facility=NL	   []
+ NL-08015: Message 8015 not found; No message file for product=NETWORK, facility=NL
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [D:\app\orcle\product\12.2.0\dbhome_1\bin\log]
+
